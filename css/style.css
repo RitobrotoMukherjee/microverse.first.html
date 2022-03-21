@@ -29,3 +29,15 @@ img {
     margin: 10px 0 10px 0;
     font-size: 35px;
   }
+a {
+    color: rebeccapurple;
+}
+
+#tribute-info {
+    text-align: justify;
+    line-height: 30px;
+}
+
+#tribute-info > h1, h3 {
+    text-align: center;
+}
