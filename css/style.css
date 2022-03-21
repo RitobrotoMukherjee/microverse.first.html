@@ -5,7 +5,7 @@ body {
 
 }
 html {
-    font-size: 12px;
+    font-size: 15px;
 }
 #main {
     padding: 30px;
@@ -23,4 +23,9 @@ img {
     max-width: 100%;
     display: block;
     height: auto;
+    align-items: center;
 }
+#img-caption {
+    margin: 10px 0 10px 0;
+    font-size: 35px;
+  }
